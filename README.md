@@ -12,7 +12,7 @@
 
 ![gambar](ScreenshotTugas3/Input.png)
 
-![gambar](ScreenshotTUgas3/InputLanjutan.png)
+![gambar](ScreenshotTugas3/InputLanjutan.png)
 
 ![gambar](ScreenshotTugas3/InputLanjutanTugas3.png)
 
