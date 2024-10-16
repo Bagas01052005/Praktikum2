@@ -6,7 +6,7 @@
 
 # Soal
 
-![gambar](ScreenshotTugas3/SoalTugas3.png)
+![gambar](ScreenshotTugas3/SoalTugas3.jpeg)
 
 # Input
 
